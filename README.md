@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Anusree
 
-<!--
-**Anusree-SK/Anusree-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics and Communication Engineering Student | AI Enthusiast
 
-Here are some ideas to get you started:
+I am a final-year Electronics and Communication Engineering student with an interest in Artificial Intelligence, Embedded Systems, IoT, and Semiconductor Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Interests
+
+- Python
+- Artificial Intelligence
+- IoT
+- Embedded Systems
+  GitHub
+- Semiconductor Technology
+- Electronics and Communication
+
+### 🚀 Projects
+
+- Autonomous Laser-Based Intrusion Detection System
+- Smart ICU Monitoring System Using IoT
+- Real-Time Public Transport Tracking System for Smart Cities
+
+### 📚 Currently Learning
+
+- Artificial Intelligence
+- Python
+- AI Tools
+- Problem Solving
+
+### 🎯 Career Goal
+
+Aspiring to build innovative technology solutions and grow as an engineer in the technology industry.
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/anusree-sk-82779b2b2
